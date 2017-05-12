@@ -21,19 +21,19 @@
 > NIMAVChatNetDetectManager 音视频网络探测管理类，提供音视频网络状态诊断功能
 ####一般的app接入聊天功能，客户端不需要带有注册功能，app本身几乎都有账号系统，当app登陆时，如果app账号没有注册过网易云信账号，是由后台去拿app账号去网易云信上进行账号注册。所以，网易云信的官方demo太过繁重。
 
-##自定义消息
+自定义消息
 
 ![自定义消息.gif](http://upload-images.jianshu.io/upload_images/2011313-57e63b5e88a58acd.gif?imageMogr2/auto-orient/strip)
 自定义消息可以让你的聊天消息多种多样，你可以发送你任何排版任何类型的消息。
 
-##3Dtouch功能
+3Dtouch功能
 
 ![3Dtouch列表弹窗.gif](http://upload-images.jianshu.io/upload_images/2011313-57f13f5fd5541856.gif?imageMogr2/auto-orient/strip)
 
 模仿微信的appIcon重按弹窗，以及最近联系人会话列表页重按弹出页面。
 选人聊天图标添加抛物线动画。
 
-##相册管理，同时选择多个视频多个图片发送
+相册管理，同时选择多个视频多个图片发送
 
 ![相册管理.gif](http://upload-images.jianshu.io/upload_images/2011313-d15f0bffc3c7bfcf.gif?imageMogr2/auto-orient/strip)
 
@@ -41,10 +41,10 @@
 
 ![视频播放图片浏览.gif](http://upload-images.jianshu.io/upload_images/2011313-4e74d998f3c84f10.gif?imageMogr2/auto-orient/strip)
 
-##群管理（搜索本地聊天和群管理）
+群管理（搜索本地聊天和群管理）
 ![群管理.gif](http://upload-images.jianshu.io/upload_images/2011313-2a0e55566a551755.gif?imageMogr2/auto-orient/strip)
 
-#相机相册合并（短按拍照，长按拍视频，类似微信）
+相机相册合并（短按拍照，长按拍视频，类似微信）
 
 ![相机相册合并.gif](http://upload-images.jianshu.io/upload_images/2011313-e711b81df362c95f.gif?imageMogr2/auto-orient/strip)
 
